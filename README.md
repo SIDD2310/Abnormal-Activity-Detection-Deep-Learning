@@ -28,3 +28,9 @@ To run the project locally, run the following CLI commands.
 ```
 pip install -r requirements.txt ## Install all the dependencies
 ```
+### Note - The cell execution requires a lot of resources and might fail on low end PCs. Please Run in Google Colab if having Low end PC.
+
+- Run all the cells of Human_Activity_Detection_Model_Creation.ipynb for Model Creation and training.
+- Run all the cells of Human_Activity_Detection_Model_Prediction.ipynb for Predicting the Class of the video.
+- For Single action detection run predict_single_action(video_file_path, SEQUENCE_LENGTH) function with video path and sequence length as input.
+- For prediction of actions in the whole video run predict_on_video(video_file_path, output_file_path, SEQUENCE_LENGTH) function with input video path, output video path, sequence length as input, an output video file with predicted classes on top of the video will be saved in the output path.
