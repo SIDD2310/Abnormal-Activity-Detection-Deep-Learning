@@ -9,7 +9,6 @@
 
 - With an achieved accuracy of 82% on their custom dataset, the Abnormal-Activity-Detection-using Deep-Learning LRCN project showcases the potential of deep learning techniques to detect and analyze abnormal behavior in videos.
 
-![](doc_imgs/main_page_ss.png)
 
 # Tools:
 - [Tensorflow](https://www.tensorflow.org/io)
@@ -20,7 +19,9 @@
 
 # Long-term recurrent convolutional network (LRCN):
 
-- [LRCN](https://sh-tsang.medium.com/brief-review-lrcn-long-term-recurrent-convolutional-networks-for-visual-recognition-and-9542bc7e8a79)
+- [LRCN Model](https://sh-tsang.medium.com/brief-review-lrcn-long-term-recurrent-convolutional-networks-for-visual-recognition-and-9542bc7e8a79)
+
+![](images/Suspicious_Human_Activity_LRCN_Model.png)
 
 # Getting Started:
 After cloning the repository to local machine.
