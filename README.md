@@ -16,6 +16,8 @@
 - [scikit-learn](https://scikit-learn.org/stable/)
 - [moviepy](https://zulko.github.io/moviepy/)
 - [Matplotlib](https://matplotlib.org/)
+- [opencv](https://opencv.org/)
+- [numpy](https://numpy.org/)
 
 # Long-term recurrent convolutional network (LRCN):
 
