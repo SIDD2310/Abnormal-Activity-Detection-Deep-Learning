@@ -1,4 +1,4 @@
-# Abnormal-Activity-Detection-Deep-Learning
+# Abnormal Activity Detection Deep Learning Using LRCN
 ## Unveiling Abnormality: Real-time Anomaly Detection with LRCN Deep Learning
 
 - The Abnormal-Activity-Detection-using Deep-Learning LRCN project focuses on developing a deep learning model for detecting abnormal behavior in videos. The project utilizes the Long-term Recurrent Convolutional Network (LRCN), which combines the power of convolutional neural networks (CNNs) and recurrent neural networks (RNNs).
