@@ -7,7 +7,7 @@
 
 - To optimize memory usage, the project team resized video frames from 224px to 64px while maintaining sufficient detail for anomaly detection. The dataset used for training the model consists of videos containing both abnormal behavior, such as fighting, and normal behavior, including walking and running. This diverse dataset enhances the model's ability to accurately identify and classify anomalous activities.
 
-- With an achieved accuracy of 82% on their custom dataset, the Abnormal-Activity-Detection-using Deep-Learning LRCN project showcases the potential of deep learning techniques to detect and analyze abnormal behavior in videos.
+- With an achieved accuracy of 92% on their custom dataset, the Abnormal-Activity-Detection-using Deep-Learning LRCN project showcases the potential of deep learning techniques to detect and analyze abnormal behavior in videos.
 
 
 # Tools:
